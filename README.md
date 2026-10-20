@@ -2,6 +2,10 @@
 
 My custom OS for my cyberdeck, running on a Raspberry Pi 4B 2GB with a Waveshare 3.5" DSI display.
 
+<p align="center">
+  <img src="cyberdeck.png" width="420" alt="The cyberdeck running LemonOS" />
+</p>
+
 ## Develop on macOS
 
 The Mac version opens a normal 640x480 window with a visible mouse pointer.
