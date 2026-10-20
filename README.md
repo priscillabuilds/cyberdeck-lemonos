@@ -42,7 +42,7 @@ sudo apt install -y python3-pygame
 2. Put this folder at:
 
 ```text
-/home/priscilla/lemonos_quickstart/
+/home/pi/lemonos_quickstart/
 ```
 
 3. First run:
